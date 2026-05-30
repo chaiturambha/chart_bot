@@ -6,3 +6,4 @@ git clone
 git status 
 cd
 
+git init
